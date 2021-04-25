@@ -1,0 +1,11 @@
+# This .gitignore file should be placed at the root of your MCreator project directory
+
+# Gradle cache directory
+**/.gradle/
+
+# MCreator cache directory
+**/.mcreator/
+
+# Other project build directories
+**/build/
+**/run/

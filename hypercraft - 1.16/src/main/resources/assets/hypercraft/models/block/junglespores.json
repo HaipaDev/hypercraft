@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "hypercraft:blocks/jungle_spores",
+    "particle": "hypercraft:blocks/jungle_spores"
+  }
+}

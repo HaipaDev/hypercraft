@@ -1,0 +1,12 @@
+{
+  "group": "hypercraft",
+  "type": "minecraft:smelting",
+  "experience": 0,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "hypercraft:diamondoreitem"
+  },
+  "result": {
+    "item": "minecraft:diamond"
+  }
+}

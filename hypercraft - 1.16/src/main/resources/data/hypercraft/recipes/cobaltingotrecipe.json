@@ -1,0 +1,22 @@
+{
+  "group": "hypercraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "hypercraft:cobaltshards"
+    },
+    {
+      "item": "minecraft:lapis_lazuli"
+    },
+    {
+      "item": "hypercraft:cobaltshards"
+    },
+    {
+      "item": "hypercraft:cobaltshards"
+    }
+  ],
+  "result": {
+    "item": "hypercraft:cobaltingot",
+    "count": 1
+  }
+}

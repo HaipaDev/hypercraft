@@ -1,0 +1,45 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:HellrockBlock"
+      },
+      {
+        "value": "CUSTOM:HellrockBlock"
+      },
+      {
+        "value": "CUSTOM:HellrockBlock"
+      },
+      {
+        "value": "CUSTOM:HellrockBlock"
+      },
+      {
+        "value": "Blocks.OBSIDIAN"
+      },
+      {
+        "value": "CUSTOM:HellrockBlock"
+      },
+      {
+        "value": "CUSTOM:HellrockBlock"
+      },
+      {
+        "value": "CUSTOM:HellrockBlock"
+      },
+      {
+        "value": "CUSTOM:HellrockBlock"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:HellstoneIngot"
+    },
+    "name": "hellstoneingotrecipe",
+    "namespace": "mod"
+  }
+}

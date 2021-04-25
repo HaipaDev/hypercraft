@@ -1,0 +1,42 @@
+{
+  "group": "hypercraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "hypercraft:hellrockblock"
+    },
+    "1": {
+      "item": "hypercraft:hellrockblock"
+    },
+    "2": {
+      "item": "hypercraft:hellrockblock"
+    },
+    "3": {
+      "item": "hypercraft:hellrockblock"
+    },
+    "4": {
+      "item": "minecraft:obsidian"
+    },
+    "5": {
+      "item": "hypercraft:hellrockblock"
+    },
+    "6": {
+      "item": "hypercraft:hellrockblock"
+    },
+    "7": {
+      "item": "hypercraft:hellrockblock"
+    },
+    "8": {
+      "item": "hypercraft:hellrockblock"
+    }
+  },
+  "result": {
+    "item": "hypercraft:hellstoneingot",
+    "count": 1
+  }
+}

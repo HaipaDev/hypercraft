@@ -1,0 +1,40 @@
+{
+  "group": "hypercraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "hypercraft:junglespores"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "minecraft:leaves",
+      "data": 32767
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "minecraft:gold_ingot"
+    },
+    {
+      "item": "minecraft:sapling",
+      "data": 32767
+    },
+    {
+      "item": "minecraft:waterlily"
+    },
+    {
+      "item": "minecraft:vine"
+    },
+    {
+      "item": "minecraft:tallgrass",
+      "data": 32767
+    }
+  ],
+  "result": {
+    "item": "hypercraft:chlorophyteingot",
+    "count": 1
+  }
+}

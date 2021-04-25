@@ -1,0 +1,42 @@
+{
+  "group": "hypercraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "hypercraft:hellstoneingot"
+    },
+    "1": {
+      "item": "minecraft:glowstone"
+    },
+    "2": {
+      "item": "hypercraft:hellstoneingot"
+    },
+    "3": {
+      "item": "hypercraft:hellstoneingot"
+    },
+    "4": {
+      "item": "hypercraft:hellstoneingot"
+    },
+    "5": {
+      "item": "hypercraft:hellstoneingot"
+    },
+    "6": {
+      "item": "hypercraft:hellstoneingot"
+    },
+    "7": {
+      "item": "hypercraft:hellstoneingot"
+    },
+    "8": {
+      "item": "hypercraft:hellstoneingot"
+    }
+  },
+  "result": {
+    "item": "hypercraft:hellstonearmor_chestplate",
+    "count": 1
+  }
+}

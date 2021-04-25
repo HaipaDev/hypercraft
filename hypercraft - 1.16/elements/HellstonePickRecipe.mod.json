@@ -1,0 +1,45 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:HellstoneIngot"
+      },
+      {
+        "value": "CUSTOM:HellstoneIngot"
+      },
+      {
+        "value": "CUSTOM:HellstoneIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.BLAZE_ROD"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.BLAZE_ROD"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:HellstonePick"
+    },
+    "name": "hellstonepickrecipe",
+    "namespace": "mod"
+  }
+}

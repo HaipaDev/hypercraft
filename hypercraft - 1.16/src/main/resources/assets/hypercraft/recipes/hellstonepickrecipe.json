@@ -1,0 +1,30 @@
+{
+  "group": "hypercraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "hypercraft:hellstoneingot"
+    },
+    "1": {
+      "item": "hypercraft:hellstoneingot"
+    },
+    "2": {
+      "item": "hypercraft:hellstoneingot"
+    },
+    "4": {
+      "item": "minecraft:blaze_rod"
+    },
+    "7": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "result": {
+    "item": "hypercraft:hellstonepick",
+    "count": 1
+  }
+}

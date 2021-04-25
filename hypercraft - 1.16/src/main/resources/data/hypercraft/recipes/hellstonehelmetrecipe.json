@@ -1,0 +1,29 @@
+{
+  "group": "hypercraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "hypercraft:hellstoneingot"
+    },
+    "1": {
+      "item": "hypercraft:hellstoneingot"
+    },
+    "2": {
+      "item": "hypercraft:hellstoneingot"
+    },
+    "3": {
+      "item": "hypercraft:hellstoneingot"
+    },
+    "5": {
+      "item": "hypercraft:hellstoneingot"
+    }
+  },
+  "result": {
+    "item": "hypercraft:hellstonearmor_helmet",
+    "count": 1
+  }
+}

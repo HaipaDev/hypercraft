@@ -1,0 +1,29 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "cobalt_pickaxe",
+    "customModelName": "Normal",
+    "name": "Cobalt Pickaxe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 0,
+    "efficiency": 10.0,
+    "attackSpeed": 2.8,
+    "enchantability": 2,
+    "damageVsEntity": 7.5,
+    "usageCount": 2400,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onBlockDestroyedWithTool": {
+      "name": "CobaltPickBlockDestroyed2"
+    }
+  }
+}

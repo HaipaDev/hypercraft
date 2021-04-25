@@ -1,0 +1,45 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:CobaltIngot"
+      },
+      {
+        "value": "CUSTOM:CobaltIngot"
+      },
+      {
+        "value": "CUSTOM:CobaltIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CobaltPick"
+    },
+    "name": "cobaltpickrecipe",
+    "namespace": "mod"
+  }
+}

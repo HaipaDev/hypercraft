@@ -1,0 +1,30 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "meteorite_pickaxe",
+    "customModelName": "Normal",
+    "name": "Hellstone PickAxe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "MultiTool",
+    "harvestLevel": 0,
+    "efficiency": 10.5,
+    "attackSpeed": 2.8,
+    "enchantability": 2,
+    "damageVsEntity": 7.800000000000001,
+    "usageCount": 666,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onBlockDestroyedWithTool": {
+      "name": "HellstonePickBlockDestroyed"
+    }
+  }
+}

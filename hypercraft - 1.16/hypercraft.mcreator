@@ -1,0 +1,700 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "JungleSpores",
+      "type": "plant",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "JungleSporesPoison",
+      "type": "procedure",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CobaltOre",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CobaltShards",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CobaltShardsSmelting",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CobaltIngotRecipe",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CobaltIngot",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CobaltPick",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "IronOreItem",
+      "type": "item",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "IronOreSmelt",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CobaltPickBlockDestroyed2",
+      "type": "procedure",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "GoldOreItem",
+      "type": "item",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "GoldOreSmelt",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "DiamondOreItem",
+      "type": "item",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "DiamondOreSmelt",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EmeraldOreItem",
+      "type": "item",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "EmeraldOreSmelt",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HellstonePick",
+      "type": "tool",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HellstonePickBlockDestroyed",
+      "type": "procedure",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "HellstoneIngot",
+      "type": "item",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HellstoneIngotRecipe",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HellstonePickRecipe",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CobaltPickRecipe",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "ChlorophyteIngot",
+      "type": "item",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "ChlorophyteIngotRecipe",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HellrockBlockEntityWalksOnTheBlock",
+      "type": "procedure",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "HellrockBlock",
+      "type": "block",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HellrockBlockBlockDestroyedByPlayer",
+      "type": "procedure",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CobaltCompassRightClicked",
+      "type": "procedure",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CobaltCompass",
+      "type": "item",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CobaltCompassRecipe",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HellrockBlockUpdateTick",
+      "type": "procedure",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "HellstoneSwordMobIsHit",
+      "type": "procedure",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "HellstoneSword",
+      "type": "tool",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HellstoneSwordRecipe",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HellstoneSwordBlockDestroyed",
+      "type": "procedure",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "HellstoneArmor",
+      "type": "armor",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "HellstoneArmorBodyTickEvent",
+      "type": "procedure",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "HellstoneHelmetRecipe",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HellstoneChestplateRecipe",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HellstoneLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HellstoneBootsRecipe",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CobaltSword",
+      "type": "tool",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CobaltSwordMobIsHit",
+      "type": "procedure",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CobaltSwordRecipe",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    }
+  ],
+  "variable_elements": [
+    {
+      "name": "spawn_x",
+      "type": "number",
+      "scope": "world",
+      "value": "0"
+    },
+    {
+      "name": "spawn_y",
+      "type": "number",
+      "scope": "world",
+      "value": "0"
+    },
+    {
+      "name": "spawn_z",
+      "type": "number",
+      "scope": "world",
+      "value": "0"
+    }
+  ],
+  "sound_elements": [],
+  "language_map": {
+    "pl_pl": {
+      "item.hellstonearmorlegs.name": "Piekielne Nagolennice",
+      "item.cobaltcompass.name": "Kobaltowy Kompas",
+      "item.hellstonearmorhelmet.name": "Piekielny He?m",
+      "item.hellstonearmorboots.name": "Piekielne Buty",
+      "item.hypercraft.hellstonesword": "Hellstone Sword",
+      "item.hellstonearmorbody.name": "Piekielny Napier?nik",
+      "item.hypercraft.chlorophyteingot": "Chlorophyte Bar",
+      "item.hypercraft.hellstonepick": "Hellstone PickAxe",
+      "item.diamondoreitem.name": "Diamentowa Ruda",
+      "block.hypercraft.junglespores": "Jungle Spores",
+      "item.hypercraft.cobaltshards": "Cobalt Shards",
+      "item.hypercraft.diamondoreitem": "Diamond Ore",
+      "item.hypercraft.hellstoneingot": "Hellstone Bar",
+      "item.ironoreitem.name": "Ruda ?elaza",
+      "item.hypercraft.ironoreitem": "Iron Ore",
+      "item.cobaltpick.name": "Kobaltowy Kilof",
+      "item.hellstonesword.name": "Piekielny Miecz",
+      "item.hypercraft.emeraldoreitem": "Emerald Ore",
+      "item.hellstoneingot.name": "Piekielna Sztabka",
+      "item.hypercraft.goldoreitem": "Gold Ore",
+      "item.hypercraft.hellstonearmor_helmet": "Hellstone Helmet",
+      "item.hypercraft.hellstonearmor_leggings": "Hellstone Leggings",
+      "tile.junglespores.name": "D?unglowe Zarodniki",
+      "item.emeraldoreitem.name": "Ruda Szmaragdu",
+      "tile.hellrockblock.name": "Piekielna Ska?a",
+      "item.cobaltsword.name": "Hellstone Sword",
+      "item.cobaltshards.name": "Od?amek Kobaltu",
+      "item.hypercraft.cobaltcompass": "Cobalt Compass",
+      "tile.cobaltore.name": "Ruda Kobaltu",
+      "item.hypercraft.cobaltpick": "Cobalt Pickaxe",
+      "item.chlorophyteingot.name": "Sztabka Zielenicu",
+      "item.hypercraft.cobaltingot": "Cobalt Ingot",
+      "item.hellstonepick.name": "Piekielny Kilof",
+      "block.hypercraft.hellrockblock": "Hellrock",
+      "item.hypercraft.hellstonearmor_boots": "Hellstone Boots",
+      "item.hypercraft.hellstonearmor_chestplate": "Hellstone Chestplate",
+      "item.cobaltingot.name": "Sztabka Kobaltu",
+      "item.goldoreitem.name": "Ruda Z?ota",
+      "item.hypercraft.cobaltsword": "Cobalt Sword",
+      "block.hypercraft.cobaltore": "Cobalt Ore"
+    },
+    "en_us": {
+      "item.hellstonearmorlegs.name": "Hellstone Leggings",
+      "item.cobaltcompass.name": "Cobalt Compass",
+      "item.hellstonearmorhelmet.name": "Hellstone Helmet",
+      "item.hellstonearmorboots.name": "Hellstone Boots",
+      "item.hypercraft.hellstonesword": "Hellstone Sword",
+      "item.hellstonearmorbody.name": "Hellstone Chestplate",
+      "item.hypercraft.chlorophyteingot": "Chlorophyte Bar",
+      "item.hypercraft.hellstonepick": "Hellstone PickAxe",
+      "item.diamondoreitem.name": "Diamond Ore",
+      "block.hypercraft.junglespores": "Jungle Spores",
+      "item.hypercraft.cobaltshards": "Cobalt Shards",
+      "item.hypercraft.diamondoreitem": "Diamond Ore",
+      "item.hypercraft.hellstoneingot": "Hellstone Bar",
+      "item.ironoreitem.name": "Iron Ore",
+      "item.hypercraft.ironoreitem": "Iron Ore",
+      "item.cobaltpick.name": "Cobalt Pickaxe",
+      "item.hellstonesword.name": "Hellstone Sword",
+      "item.hypercraft.emeraldoreitem": "Emerald Ore",
+      "item.hellstoneingot.name": "Hellstone Bar",
+      "item.hypercraft.goldoreitem": "Gold Ore",
+      "item.hypercraft.hellstonearmor_helmet": "Hellstone Helmet",
+      "item.hypercraft.hellstonearmor_leggings": "Hellstone Leggings",
+      "tile.junglespores.name": "Jungle Spores",
+      "item.emeraldoreitem.name": "Emerald Ore",
+      "tile.hellrockblock.name": "Hellrock",
+      "item.cobaltsword.name": "Cobalt Sword",
+      "item.cobaltshards.name": "Cobalt Shards",
+      "item.hypercraft.cobaltcompass": "Cobalt Compass",
+      "tile.cobaltore.name": "Cobalt Ore",
+      "item.hypercraft.cobaltpick": "Cobalt Pickaxe",
+      "item.chlorophyteingot.name": "Chlorophyte Bar",
+      "item.hypercraft.cobaltingot": "Cobalt Ingot",
+      "item.hellstonepick.name": "Hellstone PickAxe",
+      "block.hypercraft.hellrockblock": "Hellrock",
+      "item.hypercraft.hellstonearmor_boots": "Hellstone Boots",
+      "item.hypercraft.hellstonearmor_chestplate": "Hellstone Chestplate",
+      "item.cobaltingot.name": "Cobalt Ingot",
+      "item.goldoreitem.name": "Gold Ore",
+      "item.hypercraft.cobaltsword": "Cobalt Sword",
+      "block.hypercraft.cobaltore": "Cobalt Ore"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "hypercraft",
+    "modName": "HyperCraft",
+    "version": "0.1.0",
+    "author": "HyperGamesDev, MCreator",
+    "websiteURL": "https://twitter.com/HyperLemonPL",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.hypercraft",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100116710
+}

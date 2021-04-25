@@ -1,0 +1,23 @@
+{
+  "group": "hypercraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "hypercraft:cobaltshards"
+    },
+    {
+      "item": "minecraft:dye",
+      "data": 4
+    },
+    {
+      "item": "hypercraft:cobaltshards"
+    },
+    {
+      "item": "hypercraft:cobaltshards"
+    }
+  ],
+  "result": {
+    "item": "hypercraft:cobaltingot",
+    "count": 1
+  }
+}

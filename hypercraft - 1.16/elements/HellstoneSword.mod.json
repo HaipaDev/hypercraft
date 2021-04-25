@@ -1,0 +1,37 @@
+{
+  "_fv": 18,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "meteorite_sword",
+    "customModelName": "Normal",
+    "name": "Hellstone Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 0,
+    "efficiency": 1.0,
+    "attackSpeed": 0.7000000000000001,
+    "enchantability": 8,
+    "damageVsEntity": 6.5,
+    "usageCount": 666,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:HellstoneIngot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onEntityHitWith": {
+      "name": "HellstoneSwordMobIsHit"
+    },
+    "onBlockDestroyedWithTool": {
+      "name": "HellstoneSwordBlockDestroyed"
+    }
+  }
+}

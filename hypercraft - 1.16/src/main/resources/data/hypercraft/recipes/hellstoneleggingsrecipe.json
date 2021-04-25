@@ -1,0 +1,36 @@
+{
+  "group": "hypercraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "hypercraft:hellstoneingot"
+    },
+    "1": {
+      "item": "hypercraft:hellstoneingot"
+    },
+    "2": {
+      "item": "hypercraft:hellstoneingot"
+    },
+    "3": {
+      "item": "hypercraft:hellstoneingot"
+    },
+    "5": {
+      "item": "hypercraft:hellstoneingot"
+    },
+    "6": {
+      "item": "hypercraft:hellstoneingot"
+    },
+    "8": {
+      "item": "hypercraft:hellstoneingot"
+    }
+  },
+  "result": {
+    "item": "hypercraft:hellstonearmor_leggings",
+    "count": 1
+  }
+}

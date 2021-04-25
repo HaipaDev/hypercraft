@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:JungleSpores"
+      },
+      {
+        "value": "Items.GOLD_INGOT"
+      },
+      {
+        "value": "Blocks.LEAVES"
+      },
+      {
+        "value": "Items.GOLD_INGOT"
+      },
+      {
+        "value": "Items.GOLD_INGOT"
+      },
+      {
+        "value": "Blocks.SAPLING"
+      },
+      {
+        "value": "Blocks.WATERLILY"
+      },
+      {
+        "value": "Blocks.VINE"
+      },
+      {
+        "value": "Blocks.TALLGRASS"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ChlorophyteIngot"
+    },
+    "name": "chlorophyteingotrecipe",
+    "namespace": "mod"
+  }
+}

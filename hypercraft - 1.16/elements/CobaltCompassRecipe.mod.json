@@ -1,0 +1,45 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CobaltIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CobaltIngot"
+      },
+      {
+        "value": "Items.ENDER_PEARL"
+      },
+      {
+        "value": "CUSTOM:CobaltIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CobaltIngot"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CobaltCompass"
+    },
+    "name": "cobaltcompassrecipe",
+    "namespace": "mod"
+  }
+}

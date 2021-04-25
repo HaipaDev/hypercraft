@@ -1,0 +1,24 @@
+{
+  "group": "hypercraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "hypercraft:cobaltingot"
+    },
+    "1": {
+      "item": "hypercraft:cobaltingot"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "hypercraft:cobaltsword",
+    "count": 1
+  }
+}

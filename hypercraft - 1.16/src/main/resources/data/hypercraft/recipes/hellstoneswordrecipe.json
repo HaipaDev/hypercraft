@@ -1,0 +1,24 @@
+{
+  "group": "hypercraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "hypercraft:hellstoneingot"
+    },
+    "1": {
+      "item": "hypercraft:hellstoneingot"
+    },
+    "2": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "result": {
+    "item": "hypercraft:hellstonesword",
+    "count": 1
+  }
+}
